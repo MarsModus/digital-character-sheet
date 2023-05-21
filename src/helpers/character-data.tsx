@@ -21,7 +21,7 @@ const abilityScores: AbilityScore[] = [
   { id: 2, name: "constitution", score: 16 },
   { id: 3, name: "dexterity", score: 10 },
   { id: 4, name: "intelligence", score: 4 },
-  { id: 5, name: "wisdom", score: 10 },
+  { id: 5, name: "wisdom", score: 12 },
   { id: 6, name: "charisma", score: 18 },
 ];
 
